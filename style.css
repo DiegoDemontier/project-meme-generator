@@ -1,0 +1,20 @@
+#meme-image {
+  width: 250px;
+  height: 250px;
+  border: 2px solid black;
+}
+#meme-image-container {
+  width: 250px;
+  height: 250px;
+  border: 2px solid black;
+  position: relative;
+}
+
+#meme-image {
+  position: absolute;
+}
+
+#meme-text {
+  position: absolute;
+  color: aliceblue;
+}
